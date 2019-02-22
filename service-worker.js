@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rosh-calc/precache-manifest.8c70359cc3e10f18c3fde99b29beba6e.js"
+  "/rosh-calc/precache-manifest.29e0e98bf2a55c487d40980a179efcf3.js"
 );
 
 workbox.clientsClaim();

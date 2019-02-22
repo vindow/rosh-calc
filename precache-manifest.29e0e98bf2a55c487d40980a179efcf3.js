@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/rosh-calc/static/js/runtime~main.3fe5a6f7.js"
   },
   {
-    "revision": "38eed2c0bef005d23939",
-    "url": "/rosh-calc/static/js/main.38eed2c0.chunk.js"
+    "revision": "77f995693787f615056a",
+    "url": "/rosh-calc/static/js/main.77f99569.chunk.js"
   },
   {
     "revision": "6f2dddf2dce2a1d893a8",
     "url": "/rosh-calc/static/js/2.6f2dddf2.chunk.js"
   },
   {
-    "revision": "38eed2c0bef005d23939",
+    "revision": "77f995693787f615056a",
     "url": "/rosh-calc/static/css/main.7cafccb4.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rosh-calc/static/css/2.b1d3aa53.chunk.css"
   },
   {
-    "revision": "e1489b2950cf4d42ed35f739b156a743",
+    "revision": "0a01605c114ff94615ab937333b4cebd",
     "url": "/rosh-calc/index.html"
   }
 ];
