@@ -1,0 +1,17 @@
+.container {
+    margin-top: 50px;
+}
+.form-control {
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+}
+.btn-default {
+    border: 1px solid lightgray;
+}
+#copyLine {
+    margin-top: 0.25em;
+}
+#textToCopy {
+    font-weight: bold;
+    font-size: 18pt;
+}
