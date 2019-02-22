@@ -55,7 +55,7 @@ export default class Calculator extends React.Component {
             "background-color" : "#28a745",
             "color" : "#FFFFFF",
             "border-radius" : "0.25em",
-            "border" : "1px lightgray solid",
+            "border" : "0px",
             "padding" : "0.375rem 0.75rem",
             "margin" : "0 0.5em",
             "vertical-align" : "top"
